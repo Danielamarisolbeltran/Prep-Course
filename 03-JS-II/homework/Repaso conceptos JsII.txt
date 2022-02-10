@@ -1,0 +1,18 @@
+1)For:
+Es un ciclo para realizar tareas repetitivas, de manera automatizada y sin repetir codigo. 
+Lleva 3 argumentos:
+* una declaracion e iniciacion de una variable, 
+* un limite hasta donde se ejecutara dicho ciclo, 
+* un paso donde se indica el incremento de la variable en cada vuelta del for.
+
+2)Existen operadores de logicos, que son como operadores matematicos, pero para tipos de datos booleanos. 
+Reciben dos valores operandos y devuelven dos posibles resultados: true que significa verdadero o false que significa falso.
+
+* && (and = y): si los dos valores operandos son verdaderos, el resultado va a ser verdadero = true. 
+Si alguno de los valores es falso, el resultado es falso. 
+
+* || ( or = o): basta que solo uno de los valores operandos sea verdadero para que el resultado sea verdadero, true.
+Para que arroje falso, debe ser los dos valores falsos.
+
+* ! (not = no, negacion): es el valor opuesto.  Si el valor es falso, arroja verdadero. Y al reves, si es verdadero arroja falso.
+
